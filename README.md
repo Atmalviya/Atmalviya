@@ -4,7 +4,7 @@
 ## 🚀 About Me
 
 
-Hey! I'm Atul Malviya, a software developer and Computer Science graduate from Jabalpur Engineering College. Currently, I'm gaining valuable experience as a Software Developer Trainee at Opensense Labs. Apart from coding, I've served as the TPO of my college and have a passion for karate, having represented India and won three national gold medals. Let's connect and code together! 🚀
+Hey! I'm Atul Malviya, a software developer and Computer Science graduate from Jabalpur Engineering College.
 
 Reach me at [email](mailto:atulmalviyawork@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/atul-malviya/).
 
@@ -18,13 +18,13 @@ Reach me at [email](mailto:atulmalviyawork@gmail.com) or find me on [LinkedIn](h
 
  
 ## 🛠 Skills
-Javascript, TypeScript, SQL, MERN/MEAN, GIt, Bit Bucket, PHP
+Javascript, TypeScript, SQL, MERN, Next.js, Git, Bit Bucket, AI
 
 
 ## 
 👩‍💻 I'm currently working on MERN & MEAN Stack
 
-🧠 I'm currently learning Node.js
+🧠 I'm currently learning Web3
 
 📫 How to reach me...-> https://www.linkedin.com/in/atul-malviya/
 
