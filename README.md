@@ -12,7 +12,7 @@ Reach me at [email](mailto:atulmalviyawork@gmail.com) or find me on [LinkedIn](h
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atul-malviya/)
-[![linkedin](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=link)](https://portfolio.atmalviya.cloud/)
+
 
 
 
